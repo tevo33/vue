@@ -1,6 +1,6 @@
 <template>
   <div class="div">
-    <h1>Janet she be the Queen</h1>
+    <h1>Janet is THE Queen</h1>
     <h1>Número de vezes clicadas: {{ count }}</h1>
     <button @click="onClick">Clica no pae</button>
     <button @click="clean">Clean</button>
