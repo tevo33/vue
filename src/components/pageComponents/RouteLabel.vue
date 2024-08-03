@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import '../assets/styles/router-label.css'
+import '../../../src/assets/styles/router-label.css'
 export default {
   name: 'RouteLabel',
   props: {
