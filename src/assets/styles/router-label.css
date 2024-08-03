@@ -1,0 +1,13 @@
+.router-label {
+  font-size: 22px;
+  font-weight: 600;
+  color: #260101;
+}
+
+.router:hover .router-label {
+  color: black;
+}
+
+.router {
+  text-decoration: none;
+}
